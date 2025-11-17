@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "aiida-mlip"
-version = ""
+version = "0.4.1"
 description = "machine learning interatomic potentials aiida plugin"
 authors = [
     "Federica Zanca",
